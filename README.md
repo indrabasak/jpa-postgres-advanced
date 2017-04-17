@@ -5,7 +5,7 @@ JPA PostgreSQL Spring Service Advanced Example
 This is a [**Spring Boot**](https://projects.spring.io/spring-boot/) based microservice example backed by
 [**PostgreSQL**](https://www.postgresql.org/) database. This examples shows how to do the following:
 * Use `DBCP datasource` with Java configuration.
-* Use `Custom Repository` to expose `entity manager`
+* Use `Custom Repository` to expose `entity manager`.
 * Insert `UUID` field in Postgres database and generate `UUID `index.
 * Convert Java `Enum` to Postgres `Enum` type.
 * Convert Java `Object` to Postgres `JSONB` type.
